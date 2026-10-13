@@ -1,6 +1,7 @@
 name = "Jyotsna"
 age = 22
 print("welcome to cyber techno soft!")
+print("welcome to synthlite")
 print("Name:",name)
 print("Age",age)
 
